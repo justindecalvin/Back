@@ -1,0 +1,212 @@
+{
+    "class": "S.S. 3",
+    "term": "1st Term",
+    "students": [
+        {
+            "name": "Ezenwa Uchechukwu",
+            "scores": {
+                "C.H.S": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                },
+                "Yoruba": {
+                    "1st_test": 10,
+                    "2nd_test": 9
+                },
+                "Digital Tech": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                },
+                "C.R.S": {
+                    "1st_test": 9,
+                    "2nd_test": 9
+                },
+                "Mathematics": {
+                    "1st_test": 9,
+                    "2nd_test": 10
+                },
+                "Government": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                },
+                "Literature": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                },
+                "English": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                }
+            }
+        },
+        {
+            "name": "Iteji Favour",
+            "scores": {
+                "C.H.S": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                },
+                "Yoruba": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                },
+                "Digital Tech": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                },
+                "C.R.S": {
+                    "1st_test": 8,
+                    "2nd_test": 8
+                },
+                "Mathematics": {
+                    "1st_test": 9,
+                    "2nd_test": 10
+                },
+                "Government": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                },
+                "Literature": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                },
+                "English": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                }
+            }
+        },
+        {
+            "name": "Ademijoke David",
+            "scores": {
+                "C.H.S": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                },
+                "Physics": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                },
+                "Yoruba": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                },
+                "Digital Tech": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                },
+                "Chemistry": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                },
+                "Biology": {
+                    "1st_test": 9,
+                    "2nd_test": 9
+                },
+                "Mathematics": {
+                    "1st_test": 9,
+                    "2nd_test": 10
+                },
+                "English": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                }
+            }
+        },
+        {
+            "name": "Ejionye Chidubem",
+            "scores": {
+                "C.H.S": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                },
+                "Digital Tech": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                },
+                "Chemistry": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                },
+                "Biology": {
+                    "1st_test": 10,
+                    "2nd_test": 9
+                },
+                "Mathematics": {
+                    "1st_test": 9,
+                    "2nd_test": 10
+                },
+                "English": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                }
+            }
+        },
+        {
+            "name": "Okwuchukwu Onyedika",
+            "scores": {
+                "C.H.S": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                },
+                "Physics": {
+                    "1st_test": 9,
+                    "2nd_test": 9
+                },
+                "Digital Tech": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                },
+                "Chemistry": {
+                    "1st_test": 9,
+                    "2nd_test": 9
+                },
+                "Biology": {
+                    "1st_test": 9,
+                    "2nd_test": 8
+                },
+                "Mathematics": {
+                    "1st_test": 8,
+                    "2nd_test": 10
+                },
+                "English": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                }
+            }
+        },
+        {
+            "name": "Adeleke Joshua",
+            "scores": {
+                "C.H.S": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                },
+                "Physics": {
+                    "1st_test": 9,
+                    "2nd_test": 9
+                },
+                "Digital Tech": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                },
+                "Chemistry": {
+                    "1st_test": 9,
+                    "2nd_test": 9
+                },
+                "Biology": {
+                    "1st_test": 9,
+                    "2nd_test": 8
+                },
+                "Mathematics": {
+                    "1st_test": 7,
+                    "2nd_test": 10
+                },
+                "English": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                }
+            }
+        }
+    ]
+}

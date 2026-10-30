@@ -1,0 +1,859 @@
+{
+    "term": "First Term 2026",
+    "students": [
+        {
+            "name": "Ajayi Ayomikun",
+            "scores": {
+                "Mathematics": {
+                    "1st_test": 8,
+                    "2nd_test": 5
+                },
+                "English": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                },
+                "Basic Science": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                },
+                "Pre-Vocational": {
+                    "1st_test": 10,
+                    "2nd_test": 7
+                },
+                "Social Citizenship": {
+                    "1st_test": 8,
+                    "2nd_test": 5
+                },
+                "BSE": {
+                    "1st_test": 7,
+                    "2nd_test": 8
+                },
+                "PVS": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                },
+                "CCA": {
+                    "1st_test": 7,
+                    "2nd_test": 10
+                },
+                "Literature": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                },
+                "CRS": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                },
+                "PHE": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                },
+                "History": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                },
+                "Writing": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                },
+                "Computer": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                }
+            }
+        },
+        {
+            "name": "Odubanjo Michael",
+            "scores": {
+                "Mathematics": {
+                    "1st_test": 6,
+                    "2nd_test": 6
+                },
+                "English": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                },
+                "Basic Science": {
+                    "1st_test": 10,
+                    "2nd_test": 5
+                },
+                "Pre-Vocational": {
+                    "1st_test": 10,
+                    "2nd_test": 5
+                },
+                "Social Citizenship": {
+                    "1st_test": 6,
+                    "2nd_test": 8
+                },
+                "BSE": {
+                    "1st_test": 7,
+                    "2nd_test": 8
+                },
+                "PVS": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                },
+                "CCA": {
+                    "1st_test": 7,
+                    "2nd_test": 10
+                },
+                "Literature": {
+                    "1st_test": 5,
+                    "2nd_test": 8
+                },
+                "CRS": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                },
+                "PHE": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                },
+                "History": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                },
+                "Writing": {
+                    "1st_test": 5,
+                    "2nd_test": 5
+                },
+                "Computer": {
+                    "1st_test": 10,
+                    "2nd_test": 8
+                }
+            }
+        },
+        {
+            "name": "Onygho Divine",
+            "scores": {
+                "Mathematics": {
+                    "1st_test": 6,
+                    "2nd_test": 8
+                },
+                "English": {
+                    "1st_test": 10,
+                    "2nd_test": 8
+                },
+                "Basic Science": {
+                    "1st_test": 10,
+                    "2nd_test": 7
+                },
+                "Pre-Vocational": {
+                    "1st_test": 10,
+                    "2nd_test": 7
+                },
+                "Social Citizenship": {
+                    "1st_test": 6,
+                    "2nd_test": 8
+                },
+                "BSE": {
+                    "1st_test": 7,
+                    "2nd_test": 8
+                },
+                "PVS": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                },
+                "CCA": {
+                    "1st_test": 7,
+                    "2nd_test": 10
+                },
+                "Literature": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                },
+                "CRS": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                },
+                "PHE": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                },
+                "History": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                },
+                "Writing": {
+                    "1st_test": 7,
+                    "2nd_test": 6
+                },
+                "Computer": {
+                    "1st_test": 6,
+                    "2nd_test": 8
+                }
+            }
+        },
+        {
+            "name": "Adeniyi David",
+            "scores": {
+                "Mathematics": {
+                    "1st_test": 8,
+                    "2nd_test": 8
+                },
+                "English": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                },
+                "Basic Science": {
+                    "1st_test": 10,
+                    "2nd_test": 8
+                },
+                "Pre-Vocational": {
+                    "1st_test": 8,
+                    "2nd_test": 8
+                },
+                "Social Citizenship": {
+                    "1st_test": 8,
+                    "2nd_test": 8
+                },
+                "BSE": {
+                    "1st_test": 7,
+                    "2nd_test": 7
+                },
+                "PVS": {
+                    "1st_test": 7,
+                    "2nd_test": 10
+                },
+                "CCA": {
+                    "1st_test": 7,
+                    "2nd_test": 10
+                },
+                "Literature": {
+                    "1st_test": 10,
+                    "2nd_test": 8
+                },
+                "CRS": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                },
+                "PHE": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                },
+                "History": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                },
+                "Writing": {
+                    "1st_test": 7,
+                    "2nd_test": 6
+                },
+                "Computer": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                }
+            }
+        },
+        {
+            "name": "Obi Ebuka Samuel",
+            "scores": {
+                "Mathematics": {
+                    "1st_test": 10,
+                    "2nd_test": 5
+                },
+                "English": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                },
+                "Basic Science": {
+                    "1st_test": 10,
+                    "2nd_test": 5
+                },
+                "Pre-Vocational": {
+                    "1st_test": 4,
+                    "2nd_test": 3
+                },
+                "Social Citizenship": {
+                    "1st_test": 4,
+                    "2nd_test": 3
+                },
+                "BSE": {
+                    "1st_test": 6,
+                    "2nd_test": 6
+                },
+                "PVS": {
+                    "1st_test": 9,
+                    "2nd_test": 10
+                },
+                "CCA": {
+                    "1st_test": 7,
+                    "2nd_test": 10
+                },
+                "Literature": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                },
+                "CRS": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                },
+                "PHE": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                },
+                "History": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                },
+                "Writing": {
+                    "1st_test": 4,
+                    "2nd_test": 5
+                },
+                "Computer": {
+                    "1st_test": 10,
+                    "2nd_test": 5
+                }
+            }
+        },
+        {
+            "name": "Abayomi Tamara",
+            "scores": {
+                "Mathematics": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                },
+                "English": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                },
+                "Basic Science": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                },
+                "Pre-Vocational": {
+                    "1st_test": 10,
+                    "2nd_test": 8
+                },
+                "Social Citizenship": {
+                    "1st_test": 7,
+                    "2nd_test": 7
+                },
+                "BSE": {
+                    "1st_test": 6,
+                    "2nd_test": 6
+                },
+                "PVS": {
+                    "1st_test": 9,
+                    "2nd_test": 10
+                },
+                "CCA": {
+                    "1st_test": 7,
+                    "2nd_test": 10
+                },
+                "Literature": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                },
+                "CRS": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                },
+                "PHE": {
+                    "1st_test": 15,
+                    "2nd_test": 10
+                },
+                "History": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                },
+                "Writing": {
+                    "1st_test": 8,
+                    "2nd_test": 8
+                },
+                "Computer": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                }
+            }
+        },
+        {
+            "name": "Daramola Darasimi",
+            "scores": {
+                "Mathematics": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                },
+                "English": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                },
+                "Basic Science": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                },
+                "Pre-Vocational": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                },
+                "Social Citizenship": {
+                    "1st_test": 7,
+                    "2nd_test": 10
+                },
+                "BSE": {
+                    "1st_test": 6,
+                    "2nd_test": 6
+                },
+                "PVS": {
+                    "1st_test": 7,
+                    "2nd_test": 8
+                },
+                "CCA": {
+                    "1st_test": 7,
+                    "2nd_test": 10
+                },
+                "Literature": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                },
+                "CRS": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                },
+                "PHE": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                },
+                "History": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                },
+                "Writing": {
+                    "1st_test": 8,
+                    "2nd_test": 8
+                },
+                "Computer": {
+                    "1st_test": 8,
+                    "2nd_test": 8
+                }
+            }
+        },
+        {
+            "name": "John Mercy",
+            "scores": {
+                "Mathematics": {
+                    "1st_test": 5,
+                    "2nd_test": 7
+                },
+                "English": {
+                    "1st_test": 7,
+                    "2nd_test": 5
+                },
+                "Basic Science": {
+                    "1st_test": 10,
+                    "2nd_test": 5
+                },
+                "Pre-Vocational": {
+                    "1st_test": 10,
+                    "2nd_test": 5
+                },
+                "Social Citizenship": {
+                    "1st_test": 7,
+                    "2nd_test": 8
+                },
+                "BSE": {
+                    "1st_test": 8,
+                    "2nd_test": 6
+                },
+                "PVS": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                },
+                "CCA": {
+                    "1st_test": 2,
+                    "2nd_test": 10
+                },
+                "Literature": {
+                    "1st_test": 10,
+                    "2nd_test": 7
+                },
+                "CRS": {
+                    "1st_test": 8,
+                    "2nd_test": 8
+                },
+                "PHE": {
+                    "1st_test": 10,
+                    "2nd_test": 8
+                },
+                "History": {
+                    "1st_test": 12,
+                    "2nd_test": 10
+                },
+                "Writing": {
+                    "1st_test": 5,
+                    "2nd_test": 5
+                },
+                "Computer": {
+                    "1st_test": 8,
+                    "2nd_test": 8
+                }
+            }
+        },
+        {
+            "name": "Azeez Ryan",
+            "scores": {
+                "Mathematics": {
+                    "1st_test": 8,
+                    "2nd_test": 8
+                },
+                "English": {
+                    "1st_test": 10,
+                    "2nd_test": 8
+                },
+                "Basic Science": {
+                    "1st_test": 7,
+                    "2nd_test": 6
+                },
+                "Pre-Vocational": {
+                    "1st_test": 8,
+                    "2nd_test": 5
+                },
+                "Social Citizenship": {
+                    "1st_test": 7,
+                    "2nd_test": 6
+                },
+                "BSE": {
+                    "1st_test": 7,
+                    "2nd_test": 6
+                },
+                "PVS": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                },
+                "CCA": {
+                    "1st_test": 2,
+                    "2nd_test": 10
+                },
+                "Literature": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                },
+                "CRS": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                },
+                "PHE": {
+                    "1st_test": 10,
+                    "2nd_test": 8
+                },
+                "History": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                },
+                "Writing": {
+                    "1st_test": 7,
+                    "2nd_test": 8
+                },
+                "Computer": {
+                    "1st_test": 10,
+                    "2nd_test": 6
+                }
+            }
+        },
+        {
+            "name": "Mustapha Nathaniel",
+            "scores": {
+                "Mathematics": {
+                    "1st_test": 10,
+                    "2nd_test": 7
+                },
+                "English": {
+                    "1st_test": 10,
+                    "2nd_test": 8
+                },
+                "Basic Science": {
+                    "1st_test": 10,
+                    "2nd_test": 8
+                },
+                "Pre-Vocational": {
+                    "1st_test": 8,
+                    "2nd_test": 5
+                },
+                "Social Citizenship": {
+                    "1st_test": 7,
+                    "2nd_test": 6
+                },
+                "BSE": {
+                    "1st_test": 6,
+                    "2nd_test": 7
+                },
+                "PVS": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                },
+                "CCA": {
+                    "1st_test": 10,
+                    "2nd_test": 6
+                },
+                "Literature": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                },
+                "CRS": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                },
+                "PHE": {
+                    "1st_test": 10,
+                    "2nd_test": 7
+                },
+                "History": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                },
+                "Writing": {
+                    "1st_test": 7,
+                    "2nd_test": 8
+                },
+                "Computer": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                }
+            }
+        },
+        {
+            "name": "Oliver Zion",
+            "scores": {
+                "Mathematics": {
+                    "1st_test": 8,
+                    "2nd_test": 8
+                },
+                "English": {
+                    "1st_test": 10,
+                    "2nd_test": 7
+                },
+                "Basic Science": {
+                    "1st_test": 10,
+                    "2nd_test": 7
+                },
+                "Pre-Vocational": {
+                    "1st_test": 6,
+                    "2nd_test": 5
+                },
+                "Social Citizenship": {
+                    "1st_test": 7,
+                    "2nd_test": 6
+                },
+                "BSE": {
+                    "1st_test": 5,
+                    "2nd_test": 6
+                },
+                "PVS": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                },
+                "CCA": {
+                    "1st_test": 6,
+                    "2nd_test": 4
+                },
+                "Literature": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                },
+                "CRS": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                },
+                "PHE": {
+                    "1st_test": 6,
+                    "2nd_test": 4
+                },
+                "History": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                },
+                "Writing": {
+                    "1st_test": 5,
+                    "2nd_test": 6
+                },
+                "Computer": {
+                    "1st_test": 8,
+                    "2nd_test": 8
+                }
+            }
+        },
+        {
+            "name": "Taofeek Basit",
+            "scores": {
+                "Mathematics": {
+                    "1st_test": 10,
+                    "2nd_test": 8
+                },
+                "English": {
+                    "1st_test": 8,
+                    "2nd_test": 8
+                },
+                "Basic Science": {
+                    "1st_test": 10,
+                    "2nd_test": 8
+                },
+                "Pre-Vocational": {
+                    "1st_test": 8,
+                    "2nd_test": 5
+                },
+                "Social Citizenship": {
+                    "1st_test": 8,
+                    "2nd_test": 5
+                },
+                "BSE": {
+                    "1st_test": 8,
+                    "2nd_test": 5
+                },
+                "PVS": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                },
+                "CCA": {
+                    "1st_test": 10,
+                    "2nd_test": 6
+                },
+                "Literature": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                },
+                "CRS": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                },
+                "PHE": {
+                    "1st_test": 10,
+                    "2nd_test": 6
+                },
+                "History": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                },
+                "Writing": {
+                    "1st_test": 5,
+                    "2nd_test": 5
+                },
+                "Computer": {
+                    "1st_test": 8,
+                    "2nd_test": 8
+                }
+            }
+        },
+        {
+            "name": "Babalola Boluwatife",
+            "scores": {
+                "Mathematics": {
+                    "1st_test": 10,
+                    "2nd_test": 8
+                },
+                "English": {
+                    "1st_test": 8,
+                    "2nd_test": 8
+                },
+                "Basic Science": {
+                    "1st_test": 6,
+                    "2nd_test": 7
+                },
+                "Pre-Vocational": {
+                    "1st_test": 6,
+                    "2nd_test": 7
+                },
+                "Social Citizenship": {
+                    "1st_test": 6,
+                    "2nd_test": 7
+                },
+                "BSE": {
+                    "1st_test": 10,
+                    "2nd_test": 5
+                },
+                "PVS": {
+                    "1st_test": 7,
+                    "2nd_test": 10
+                },
+                "CCA": {
+                    "1st_test": 2,
+                    "2nd_test": 7
+                },
+                "Literature": {
+                    "1st_test": 8,
+                    "2nd_test": 8
+                },
+                "CRS": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                },
+                "PHE": {
+                    "1st_test": 10,
+                    "2nd_test": 6
+                },
+                "History": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                },
+                "Writing": {
+                    "1st_test": 8,
+                    "2nd_test": 8
+                },
+                "Computer": {
+                    "1st_test": 10.5,
+                    "2nd_test": 6
+                }
+            }
+        },
+        {
+            "name": "Alabi Darasimi",
+            "scores": {
+                "Mathematics": {
+                    "1st_test": 4,
+                    "2nd_test": 5
+                },
+                "English": {
+                    "1st_test": 6,
+                    "2nd_test": 7
+                },
+                "Basic Science": {
+                    "1st_test": 6,
+                    "2nd_test": 7
+                },
+                "Pre-Vocational": {
+                    "1st_test": 4,
+                    "2nd_test": 3
+                },
+                "Social Citizenship": {
+                    "1st_test": 4,
+                    "2nd_test": 3
+                },
+                "BSE": {
+                    "1st_test": 4,
+                    "2nd_test": 5
+                },
+                "PVS": {
+                    "1st_test": 10,
+                    "2nd_test": 5
+                },
+                "CCA": {
+                    "1st_test": 2,
+                    "2nd_test": 7
+                },
+                "Literature": {
+                    "1st_test": 5,
+                    "2nd_test": 5
+                },
+                "CRS": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                },
+                "PHE": {
+                    "1st_test": 1,
+                    "2nd_test": 4
+                },
+                "History": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                },
+                "Writing": {
+                    "1st_test": 4,
+                    "2nd_test": 5
+                },
+                "Computer": {
+                    "1st_test": 6,
+                    "2nd_test": 7
+                }
+            }
+        }
+    ]
+}

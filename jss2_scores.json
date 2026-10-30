@@ -1,0 +1,483 @@
+{
+    "class": "J.S.S. 2",
+    "term": "1st Term",
+    "students": [
+        {
+            "name": "Alao Esther",
+            "scores": {
+                "Yoruba": {
+                    "1st_test": 10,
+                    "2nd_test": 4
+                },
+                "CRS": {
+                    "1st_test": 8,
+                    "2nd_test": 8
+                },
+                "Livestock": {
+                    "1st_test": 9,
+                    "2nd_test": 10
+                },
+                "B.S.": {
+                    "1st_test": 9,
+                    "2nd_test": 6
+                },
+                "PHE": {
+                    "1st_test": 6,
+                    "2nd_test": 6
+                },
+                "History": {
+                    "1st_test": 8,
+                    "2nd_test": 10
+                },
+                "Business Studies": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                },
+                "CCA": {
+                    "1st_test": 10,
+                    "2nd_test": 9
+                },
+                "Intermediate Science": {
+                    "1st_test": 8,
+                    "2nd_test": 10
+                },
+                "Digital Tech": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                },
+                "English": {
+                    "1st_test": 10,
+                    "2nd_test": 7
+                },
+                "Mathematics": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                }
+            }
+        },
+        {
+            "name": "Alibawo Jamiloju",
+            "scores": {
+                "Yoruba": {
+                    "1st_test": 8,
+                    "2nd_test": 7
+                },
+                "CRS": {
+                    "1st_test": 8,
+                    "2nd_test": 8
+                },
+                "Livestock": {
+                    "1st_test": 6,
+                    "2nd_test": 9
+                },
+                "B.S.": {
+                    "1st_test": 6,
+                    "2nd_test": 10
+                },
+                "PHE": {
+                    "1st_test": 9,
+                    "2nd_test": 6
+                },
+                "History": {
+                    "1st_test": 6,
+                    "2nd_test": 10
+                },
+                "Business Studies": {
+                    "1st_test": 8,
+                    "2nd_test": 10
+                },
+                "CCA": {
+                    "1st_test": 5,
+                    "2nd_test": 10
+                },
+                "Intermediate Science": {
+                    "1st_test": 8,
+                    "2nd_test": 10
+                },
+                "Digital Tech": {
+                    "1st_test": 9,
+                    "2nd_test": 8
+                },
+                "English": {
+                    "1st_test": 10,
+                    "2nd_test": 6
+                },
+                "Mathematics": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                }
+            }
+        },
+        {
+            "name": "Azeez Halliah",
+            "scores": {
+                "Yoruba": {
+                    "1st_test": 7,
+                    "2nd_test": 7
+                },
+                "CRS": {
+                    "1st_test": 7,
+                    "2nd_test": 7
+                },
+                "Livestock": {
+                    "1st_test": 4,
+                    "2nd_test": 5
+                },
+                "B.S.": {
+                    "1st_test": 7,
+                    "2nd_test": 5
+                },
+                "PHE": {
+                    "1st_test": 6,
+                    "2nd_test": 4
+                },
+                "History": {
+                    "1st_test": 6,
+                    "2nd_test": 10
+                },
+                "Business Studies": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                },
+                "CCA": {
+                    "1st_test": 5,
+                    "2nd_test": 8
+                },
+                "Intermediate Science": {
+                    "1st_test": 8,
+                    "2nd_test": 10
+                },
+                "Digital Tech": {
+                    "1st_test": 8,
+                    "2nd_test": 8
+                },
+                "English": {
+                    "1st_test": 9,
+                    "2nd_test": 5
+                },
+                "Mathematics": {
+                    "1st_test": 5,
+                    "2nd_test": 10
+                }
+            }
+        },
+        {
+            "name": "Adeshina Darasimi",
+            "scores": {
+                "Yoruba": {
+                    "1st_test": 9,
+                    "2nd_test": 9
+                },
+                "CRS": {
+                    "1st_test": 9,
+                    "2nd_test": 9
+                },
+                "Livestock": {
+                    "1st_test": 9,
+                    "2nd_test": 8
+                },
+                "B.S.": {
+                    "1st_test": 9,
+                    "2nd_test": 8
+                },
+                "PHE": {
+                    "1st_test": 10,
+                    "2nd_test": 9
+                },
+                "History": {
+                    "1st_test": 8,
+                    "2nd_test": 8
+                },
+                "Business Studies": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                },
+                "CCA": {
+                    "1st_test": 10,
+                    "2nd_test": 7
+                },
+                "Intermediate Science": {
+                    "1st_test": 9,
+                    "2nd_test": 10
+                },
+                "Digital Tech": {
+                    "1st_test": 9,
+                    "2nd_test": 9
+                },
+                "English": {
+                    "1st_test": 9,
+                    "2nd_test": 4
+                },
+                "Mathematics": {
+                    "1st_test": 4,
+                    "2nd_test": 10
+                }
+            }
+        },
+        {
+            "name": "Izuagbe Elizabeth",
+            "scores": {
+                "Yoruba": {
+                    "1st_test": 7,
+                    "2nd_test": 7
+                },
+                "CRS": {
+                    "1st_test": 9,
+                    "2nd_test": 9
+                },
+                "Livestock": {
+                    "1st_test": 9,
+                    "2nd_test": 8
+                },
+                "B.S.": {
+                    "1st_test": 8,
+                    "2nd_test": 8
+                },
+                "PHE": {
+                    "1st_test": 10,
+                    "2nd_test": 8
+                },
+                "History": {
+                    "1st_test": 9,
+                    "2nd_test": 10
+                },
+                "Business Studies": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                },
+                "CCA": {
+                    "1st_test": 9,
+                    "2nd_test": 7
+                },
+                "Intermediate Science": {
+                    "1st_test": 8,
+                    "2nd_test": 10
+                },
+                "Digital Tech": {
+                    "1st_test": 7,
+                    "2nd_test": 7
+                },
+                "English": {
+                    "1st_test": 10,
+                    "2nd_test": 8
+                },
+                "Mathematics": {
+                    "1st_test": 5,
+                    "2nd_test": 10
+                }
+            }
+        },
+        {
+            "name": "Odubanjo Samuel",
+            "scores": {
+                "Yoruba": {
+                    "1st_test": 6,
+                    "2nd_test": 5
+                },
+                "CRS": {
+                    "1st_test": 8,
+                    "2nd_test": 8
+                },
+                "Livestock": {
+                    "1st_test": 8,
+                    "2nd_test": 8
+                },
+                "B.S.": {
+                    "1st_test": 6,
+                    "2nd_test": 6
+                },
+                "PHE": {
+                    "1st_test": 6,
+                    "2nd_test": 9
+                },
+                "History": {
+                    "1st_test": 7,
+                    "2nd_test": 10
+                },
+                "Business Studies": {
+                    "1st_test": 7,
+                    "2nd_test": 10
+                },
+                "CCA": {
+                    "1st_test": 5,
+                    "2nd_test": 6
+                },
+                "Intermediate Science": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                },
+                "Digital Tech": {
+                    "1st_test": 9,
+                    "2nd_test": 9
+                },
+                "English": {
+                    "1st_test": 10,
+                    "2nd_test": 9
+                },
+                "Mathematics": {
+                    "1st_test": 5,
+                    "2nd_test": 10
+                }
+            }
+        },
+        {
+            "name": "Oladele Ayobami",
+            "scores": {
+                "Yoruba": {
+                    "1st_test": 7,
+                    "2nd_test": 7
+                },
+                "CRS": {
+                    "1st_test": 8,
+                    "2nd_test": 8
+                },
+                "Livestock": {
+                    "1st_test": 8,
+                    "2nd_test": 8
+                },
+                "B.S.": {
+                    "1st_test": 7,
+                    "2nd_test": 8
+                },
+                "PHE": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                },
+                "History": {
+                    "1st_test": 8,
+                    "2nd_test": 6
+                },
+                "Business Studies": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                },
+                "CCA": {
+                    "1st_test": 8,
+                    "2nd_test": 9
+                },
+                "Intermediate Science": {
+                    "1st_test": 9,
+                    "2nd_test": 10
+                },
+                "Digital Tech": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                },
+                "English": {
+                    "1st_test": 10,
+                    "2nd_test": 8
+                },
+                "Mathematics": {
+                    "1st_test": 5,
+                    "2nd_test": 10
+                }
+            }
+        },
+        {
+            "name": "Oliver Afomachukwu",
+            "scores": {
+                "Yoruba": {
+                    "1st_test": 8,
+                    "2nd_test": 8
+                },
+                "CRS": {
+                    "1st_test": 8,
+                    "2nd_test": 8
+                },
+                "Livestock": {
+                    "1st_test": 8,
+                    "2nd_test": 8
+                },
+                "B.S.": {
+                    "1st_test": 8,
+                    "2nd_test": 9
+                },
+                "PHE": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                },
+                "History": {
+                    "1st_test": 8,
+                    "2nd_test": 10
+                },
+                "Business Studies": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                },
+                "CCA": {
+                    "1st_test": 9,
+                    "2nd_test": 9
+                },
+                "Intermediate Science": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                },
+                "Digital Tech": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                },
+                "English": {
+                    "1st_test": 10,
+                    "2nd_test": 9
+                },
+                "Mathematics": {
+                    "1st_test": 5,
+                    "2nd_test": 10
+                }
+            }
+        },
+        {
+            "name": "Onyigho Vigor",
+            "scores": {
+                "Yoruba": {
+                    "1st_test": 7,
+                    "2nd_test": 7
+                },
+                "CRS": {
+                    "1st_test": 8,
+                    "2nd_test": 8
+                },
+                "Livestock": {
+                    "1st_test": 6,
+                    "2nd_test": 7
+                },
+                "B.S.": {
+                    "1st_test": 9,
+                    "2nd_test": 6
+                },
+                "PHE": {
+                    "1st_test": 10,
+                    "2nd_test": 9
+                },
+                "History": {
+                    "1st_test": 9,
+                    "2nd_test": 6
+                },
+                "Business Studies": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                },
+                "CCA": {
+                    "1st_test": 9,
+                    "2nd_test": 7
+                },
+                "Intermediate Science": {
+                    "1st_test": 8,
+                    "2nd_test": 10
+                },
+                "Digital Tech": {
+                    "1st_test": 10,
+                    "2nd_test": 10
+                },
+                "English": {
+                    "1st_test": 10,
+                    "2nd_test": 9
+                },
+                "Mathematics": {
+                    "1st_test": 5,
+                    "2nd_test": 10
+                }
+            }
+        }
+    ]
+}
