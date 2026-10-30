@@ -1,0 +1,119 @@
+Stanbax first/second-test bulk import report
+Authoritative roster: Tytlt.csv (107 students)
+Source students matched: 76 rows across 11 files
+Output records: 786 student-subject rows
+Rules: Tytlt.csv supplies registration_no/full_name/grade_level; only 1st_test and 2nd_test are used; a missing member of a pair is set to 8; 3rd_test is ignored.
+Conflicts ignored after first source wins: 33
+
+Match audit:
+MATCH Jss1.csv: Idiaghe Iyobosa -> Idiaghe Iyobosa / SBS/2026/JSS1/001 (registration number)
+MATCH Jss1.csv: Adeniyi Paul -> Adeniyi Paul / SBS/2026/JSS1/002 (registration number)
+MATCH Jss1.csv: Titcombe Ayodeji -> Titcombe Ayodeji / SBS/2026/JSS1/003 (registration number)
+MATCH Jss1.csv: Ada Anakwae -> Ada Anakwae / SBS/2026/JSS1/004 (registration number)
+MATCH Jss1.csv: Ademumi Demilade -> Ademumi Demilade / SBS/2026/JSS1/005 (registration number)
+MATCH Jss1.csv: Mustapha Irewamiri -> Mustapha Irewamiri / SBS/2026/JSS1/006 (registration number)
+MATCH Jss1.csv: Unaji Vincent -> Unaji Vincent / SBS/2026/JSS1/007 (registration number)
+MATCH Jss1.csv: Oladipo Samuel Gbolahan -> Oladipo Samuel / SBS/2026/JSS1/008 (registration number)
+MATCH Jss1.csv: Osuntoyinbo Obabi -> Daramola Darasimi / STX/2024/101 (registration number)
+MATCH Jss1.csv: Daramola Darasimi -> Osuntoyinbo Obabi / STX/2024/102 (registration number)
+MATCH Jss3.csv: Adeleke Josheph -> Adeleke Joseph / STX/2026/142 (registration number)
+MATCH Jss3.csv: Ndubisi Victor -> Ndubisi Victor / SBS/2026/JSS3/001 (registration number)
+MATCH Jss3.csv: Titcombe Ayomide -> Titcombe Ayomide / SBS/2026/JSS3/002 (registration number)
+MATCH Jss3.csv: Amulo Samuel -> Amulo Samuel / SBS/2026/JSS3/003 (registration number)
+MATCH Jss3.csv: Izuagbe Mercy -> Izuagbe Mercy / SBS/2026/JSS3/004 (registration number)
+MATCH Jss3.csv: Unaji Immaculate -> Unaji Immaculate / SBS/2026/JSS3/005 (registration number)
+MATCH Jss3.csv: Okwuchukwu Oluchi -> Okwuchukwu Oluchi / SBS/2026/JSS3/006 (registration number)
+MATCH Jss3.csv: Adaramola Ayooluwa -> Adaramola Ayooluwa / SBS/2026/JSS3/007 (registration number)
+MATCH Jss3.csv: Adeshina Solomon -> Adeshina Solomon / SBS/2026/JSS3/008 (registration number)
+MATCH Jss3.csv: Anakwae Ifechukwu Henry -> Anakwae Ifechukwu Henry / SBS/2026/JSS3/009 (registration number)
+MATCH Kg1.csv: Raheem Enoch -> Raheem Enoch / STX/2026/124 (registration number)
+MATCH Kg1.csv: Obi Elizabeth -> Obi Elizabeth / STX/2026/123 (registration number)
+MATCH Kg1.csv: Kehinde Darasimi -> Kehinde Darasimi / STX/2026/122 (registration number)
+MATCH Kg1.csv: Bello Matin -> Bello Matin / STX/2026/121 (registration number)
+MATCH Kg1.csv: Balogun Anabel -> Balogun Anabel / STX/2026/120 (registration number)
+MATCH Kg1.csv: Akinosho Tamim -> Akinosho Tamim / STX/2026/119 (registration number)
+MATCH Kg2.csv: David Abayomi -> David Abayomi / SBS/2026/KG2/001 (registration number)
+MATCH Kg2.csv: Oladayo Olaniyi -> Oladayo Olaniyi / SBS/2026/KG2/002 (registration number)
+MATCH Kg2.csv: Bryan Babalola -> Bryan Babalola / SBS/2026/KG2/003 (registration number)
+MATCH Kg2.csv: Jemimal Alabiade -> Jemimal Alabiade / SBS/2026/KG2/004 (registration number)
+MATCH Kg2.csv: Azeez Aisha -> Azeez Aisha / SBS/2026/KG2/005 (registration number)
+MATCH Kg2.csv: Ajibowo Ire -> Ajibowo Ire / SBS/2026/KG2/006 (registration number)
+MATCH Pry1.csv: Adaramola Sindara -> Adaramola Sindara / SBS/2026/PRY1/001 (registration number)
+MATCH Pry1.csv: Testimony Abenghe -> Testimony Gbengbe / SBS/2026/PRY1/002 (registration number)
+MATCH Ss2_science.csv: Alabi Blessing -> Alabi Blessing / STX/2026/140 (registration number)
+MATCH Ss2_science.csv: Bello Mordiyah -> Bello Mordiyah / SBS/2026/SS2/001 (registration number)
+MATCH Ss2_science.csv: Kafilat Balogun -> Kafilat Balogun / SBS/2026/SS2/003 (registration number)
+MATCH Ss2art.csv: Taofeek Fawas -> Taofeek Fawas / STX/2026/141 (registration number)
+MATCH Ss2art.csv: Oladele Esther Ayomide -> Oladele Esther Ayomide / STX/2026/139 (registration number)
+MATCH Ss2art.csv: Kafilat Balogun -> Kafilat Balogun / SBS/2026/SS2/003 (registration number)
+MATCH Pry.json: Ajayi Ayomikun -> Ajayi Ayomikun / SBS/2026/PRY2/005 (exact/alias name)
+MATCH Pry.json: Odubanjo Michael -> Odubanjo Micheal / SBS/2026/PRY2/001 (fuzzy name (0.94))
+MATCH Pry.json: Onygho Divine -> Ondigho Divine / SBS/2026/PRY2/008 (fuzzy name (0.89))
+MATCH Pry.json: Adeniyi David -> Adeniyi David / SBS/2026/PRY2/007 (exact/alias name)
+MATCH Pry.json: Obi Ebuka Samuel -> Obi Ebuka / SBS/2026/PRY2/006 (fuzzy name (0.72))
+MATCH Pry.json: Abayomi Tamara -> Tamara Abayomi / SBS/2026/PRY2/002 (exact/alias name)
+MATCH Pry.json: Daramola Darasimi -> Daramola Darasimi / STX/2024/101 (exact/alias name)
+MATCH Pry.json: John Mercy -> John Mercy / SBS/2026/PRY2/004 (exact/alias name)
+MATCH Pry.json: Azeez Ryan -> Azeez Ryan / SBS/2026/PRY3/004 (exact/alias name)
+MATCH Pry.json: Mustapha Nathaniel -> Mustapha Nathaniel / SBS/2026/PRY3/002 (exact/alias name)
+MATCH Pry.json: Oliver Zion -> Oliver Zion / SBS/2026/PRY3/003 (exact/alias name)
+MATCH Pry.json: Taofeek Basit -> Taofeek Basit / STX/2026/126 (exact/alias name)
+MATCH Pry.json: Babalola Boluwatife -> Babalola Boluwatife / STX/2026/125 (exact/alias name)
+MATCH Pry.json: Alabi Darasimi -> Alabi Darasimi / SBS/2026/PRY3/001 (exact/alias name)
+MATCH jss2_scores.json: Alao Esther -> Ajao Esther / STX/2026/112 (fuzzy name (0.91))
+MATCH jss2_scores.json: Alibawo Jamiloju -> Ajibowo Jomiloju Ruth / STX/2026/113 (exact/alias name)
+MATCH jss2_scores.json: Azeez Halliah -> Azeez Haliyah / STX/2026/114 (fuzzy name (0.92))
+MATCH jss2_scores.json: Adeshina Darasimi -> Adeshina Darasimi / SBS/2026/JSS2/007 (exact/alias name)
+MATCH jss2_scores.json: Izuagbe Elizabeth -> Izuagbe Elizabeth / STX/2026/111 (exact/alias name)
+MATCH jss2_scores.json: Odubanjo Samuel -> Odubanjo Samuel / STX/2026/115 (exact/alias name)
+MATCH jss2_scores.json: Oladele Ayobami -> Oladele Ayobami / STX/2026/110 (exact/alias name)
+MATCH jss2_scores.json: Oliver Afomachukwu -> Oliva Afomachukwu / STX/2026/116 (fuzzy name (0.91))
+MATCH jss2_scores.json: Onyigho Vigor -> Oniigho Vigor / STX/2026/118 (fuzzy name (0.92))
+MATCH ss1_scores.json: Asimiyu Abdulsalam -> Asimiyu Abdulsalam / STX/2026/108 (exact/alias name)
+MATCH ss1_scores.json: Oladiipo Darasimi Esther -> Oladipo Darasimi / STX/2026/109 (exact/alias name)
+MATCH ss1_scores.json: Yekinni Zainab Ojuolape -> Yekinni Zainab / STX/2026/107 (exact/alias name)
+MATCH ss1_scores.json: Yekinni Omotoyosi Oreduwa -> Yekinni Omotoyosi / STX/2026/105 (exact/alias name)
+MATCH ss1_scores.json: Ezenwa Vivian -> Ezenwa Vivian / STX/2026/106 (exact/alias name)
+MATCH ss1_scores.json: Adeniyi Moses Ipepemi -> Adeniyi Moses / STX/2026/104 (exact/alias name)
+MATCH ss1_scores.json: Odubanjo Irewamiri -> Odubanjo Irewamiri / STX/2026/103 (exact/alias name)
+MATCH ss3_scores.json: Ezenwa Uchechukwu -> Ezenwa Uchechukwu / STX/2026/149 (exact/alias name)
+MATCH ss3_scores.json: Iteji Favour -> Iteji favor / STX/2026/150 (fuzzy name (0.96))
+MATCH ss3_scores.json: Ademijoke David -> Ademigoke David / STX/2026/151 (fuzzy name (0.93))
+MATCH ss3_scores.json: Ejionye Chidubem -> Ejionye Chidubem / STX/2026/153 (exact/alias name)
+MATCH ss3_scores.json: Okwuchukwu Onyedika -> Okuchukwu Onyedika / STX/2026/152 (fuzzy name (0.97))
+MATCH ss3_scores.json: Adeleke Joshua -> Adeleke Joshua / STX/2026/154 (exact/alias name)
+
+Conflict audit:
+CONFLICT SBS/2026/PRY2/005 Basic Science: kept 10,10 from Pry.json; ignored 7,8 from Pry.json
+CONFLICT SBS/2026/PRY2/005 Prevocational Studies: kept 10,7 from Pry.json; ignored 10,10 from Pry.json
+CONFLICT SBS/2026/PRY2/001 Basic Science: kept 10,5 from Pry.json; ignored 7,8 from Pry.json
+CONFLICT SBS/2026/PRY2/001 Prevocational Studies: kept 10,5 from Pry.json; ignored 10,10 from Pry.json
+CONFLICT SBS/2026/PRY2/008 Basic Science: kept 10,7 from Pry.json; ignored 7,8 from Pry.json
+CONFLICT SBS/2026/PRY2/008 Prevocational Studies: kept 10,7 from Pry.json; ignored 10,10 from Pry.json
+CONFLICT SBS/2026/PRY2/007 Basic Science: kept 10,8 from Pry.json; ignored 7,7 from Pry.json
+CONFLICT SBS/2026/PRY2/007 Prevocational Studies: kept 8,8 from Pry.json; ignored 7,10 from Pry.json
+CONFLICT SBS/2026/PRY2/006 Basic Science: kept 10,5 from Pry.json; ignored 6,6 from Pry.json
+CONFLICT SBS/2026/PRY2/006 Prevocational Studies: kept 4,3 from Pry.json; ignored 9,10 from Pry.json
+CONFLICT SBS/2026/PRY2/002 Basic Science: kept 10,10 from Pry.json; ignored 6,6 from Pry.json
+CONFLICT SBS/2026/PRY2/002 Prevocational Studies: kept 10,8 from Pry.json; ignored 9,10 from Pry.json
+CONFLICT STX/2024/101 Mathematics: kept 7,7 from Jss1.csv; ignored 10,10 from Pry.json
+CONFLICT STX/2024/101 English Language: kept 9,9 from Jss1.csv; ignored 10,10 from Pry.json
+CONFLICT STX/2024/101 Social & Citizenship Studies: kept 7,7 from Jss1.csv; ignored 7,10 from Pry.json
+CONFLICT STX/2024/101 Basic Science: kept 10,10 from Pry.json; ignored 6,6 from Pry.json
+CONFLICT STX/2024/101 Prevocational Studies: kept 10,10 from Pry.json; ignored 7,8 from Pry.json
+CONFLICT STX/2024/101 Cultural and Creative Arts: kept 5,5 from Jss1.csv; ignored 7,10 from Pry.json
+CONFLICT STX/2024/101 Cristian Religious studies: kept 8,8 from Jss1.csv; ignored 10,10 from Pry.json
+CONFLICT STX/2024/101 History: kept 5,5 from Jss1.csv; ignored 10,10 from Pry.json
+CONFLICT SBS/2026/PRY2/004 Basic Science: kept 10,5 from Pry.json; ignored 8,6 from Pry.json
+CONFLICT SBS/2026/PRY2/004 Prevocational Studies: kept 10,5 from Pry.json; ignored 10,10 from Pry.json
+CONFLICT SBS/2026/PRY3/004 Prevocational Studies: kept 8,5 from Pry.json; ignored 10,10 from Pry.json
+CONFLICT SBS/2026/PRY3/002 Basic Science: kept 10,8 from Pry.json; ignored 6,7 from Pry.json
+CONFLICT SBS/2026/PRY3/002 Prevocational Studies: kept 8,5 from Pry.json; ignored 10,10 from Pry.json
+CONFLICT SBS/2026/PRY3/003 Basic Science: kept 10,7 from Pry.json; ignored 5,6 from Pry.json
+CONFLICT SBS/2026/PRY3/003 Prevocational Studies: kept 6,5 from Pry.json; ignored 10,10 from Pry.json
+CONFLICT STX/2026/126 Basic Science: kept 10,8 from Pry.json; ignored 8,5 from Pry.json
+CONFLICT STX/2026/126 Prevocational Studies: kept 8,5 from Pry.json; ignored 10,10 from Pry.json
+CONFLICT STX/2026/125 Basic Science: kept 6,7 from Pry.json; ignored 10,5 from Pry.json
+CONFLICT STX/2026/125 Prevocational Studies: kept 6,7 from Pry.json; ignored 7,10 from Pry.json
+CONFLICT SBS/2026/PRY3/001 Basic Science: kept 6,7 from Pry.json; ignored 4,5 from Pry.json
+CONFLICT SBS/2026/PRY3/001 Prevocational Studies: kept 4,3 from Pry.json; ignored 10,5 from Pry.json
